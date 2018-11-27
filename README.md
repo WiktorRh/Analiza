@@ -1,1 +1,1 @@
-Projekty wykonane w EA.
+Projekty wykonane w Enterprise Architect.
